@@ -21,7 +21,8 @@ date:
 
 Ask a manager if you would like to cut any materials not listed above.
 
-MANAGERS: Absolutely no PVC nor Vinyl is to be used in the Laser Cutter under any circumstances whatsoever. Also we don't allow the use of that compacted brownish material the Architecture students use under any circumstances either.
+MANAGERS: Absolutely no PVC nor Vinyl is to be used in the Laser Cutter under any circumstances whatsoever. Also we don't allow the use of that compacted brownish material the Architecture students use under any circumstances either. 
+**Do not Set power for anything above 85% that is the maximum allowable power setting** 
 
 
 **See the [[material database]] for help with settings.**
